@@ -1,0 +1,113 @@
+.para{
+  letter-spacing: 1px;
+}
+
+.heading{
+text-decoration: underline;
+}
+
+h1{
+  letter-spacing: 3px;
+}
+
+.address{
+  text-align: center;
+}
+
+.img{
+  position: absolute;
+}
+
+img{
+  width:15vh;
+  margin-left: 20vh;
+}
+
+h1{
+  color:orangered;
+  font-family:initial;
+  position: relative;
+}
+
+.ruled{
+  border: none;
+  outline: none;
+  border-bottom: dotted red;
+}
+
+input{
+  border: none;
+  outline: none;
+  text-align: center;
+  margin-left: 2vh;
+  line-height: 3vh;
+  letter-spacing: 1px;
+}
+
+.textbox{
+  line-height: 1.5;
+}
+
+.boxes{
+  text-align: left;
+  font-size:large;
+  margin-left: 55vh;
+}
+ 
+.copy{
+  position: absolute;
+  color:red;
+  margin-top: 1vh;
+  margin-left:161vh ;
+}
+
+.jbts{
+  position: absolute;
+  margin-top: 1.5vh;
+  margin-left: 160vh;
+  font-size:60px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+  text-shadow: 1px 1px 1px gry ;
+}
+
+table{
+  width: 70%;
+}
+
+td{
+  display:grid;
+  flex-direction: column;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+
+.footer{
+  color:red;
+  font-weight: 400;
+  float: right;
+  margin-right: 35vh;
+}
+
+.down1{
+  margin-left: 5vh;
+  position: absolute;
+  margin-bottom: 2vh;
+}
+
+.down3{
+  float: right;
+  margin-left: 55vh;
+  margin-right: 2vh;
+}
+.mern{
+  margin-top: 3.5vh;
+  text-align: center;
+  margin-left: 75vh;
+  font-size: x-small;
+  position: relative;
+}
