@@ -1,11 +1,12 @@
 import balaji from './component1/balaji.png'
 import './App.css';
-import Bill from './component1/bill';
+import Bills from './component1/bills';
+
 
 function App() {
   return (
     <div className="App">
-      <Bill />
+    <Bills/>
     </div>
   );
 }
